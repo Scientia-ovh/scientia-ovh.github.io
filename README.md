@@ -1,2 +1,3 @@
-# scientia-ovh.github.io
-Scientia Mathematica
+# SCIENTIA MATHEMATICA
+
+Welcome to Scientia Mathematica!
