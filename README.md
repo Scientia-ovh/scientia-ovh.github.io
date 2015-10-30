@@ -1,3 +1,3 @@
-# SCIENTIA MATHEMATICA
+# SCIENTIA
 
-Welcome to Scientia Mathematica!
+Welcome to Scientia!
